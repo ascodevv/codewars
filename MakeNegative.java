@@ -1,4 +1,4 @@
-public class MakeNegative {
+class MakeNegative {
 
     public int kata(final int x) {
 

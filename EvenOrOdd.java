@@ -1,4 +1,4 @@
-public class EvenOrOdd {
+class EvenOrOdd {
 
     public String kata(int number) {
 
