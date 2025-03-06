@@ -1,5 +1,3 @@
-package com.ascodev;
-
 public class NumberToString {
 
     public String kata(int num) {

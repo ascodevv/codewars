@@ -1,5 +1,3 @@
-package com.ascodev;
-
 public class EvenOrOdd {
 
     public String kata(int number) {

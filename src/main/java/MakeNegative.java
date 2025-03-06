@@ -1,5 +1,3 @@
-package com.ascodev;
-
 public class MakeNegative {
 
     public int kata(final int x) {
